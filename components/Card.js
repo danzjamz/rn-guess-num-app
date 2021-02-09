@@ -19,6 +19,6 @@ const styles = StyleSheet.create({
         elevation: 5,  // elevation for ANDROID ONLY
         backgroundColor: 'white',
         padding: 20,
-        borderRadius: '8px'
+        borderRadius: 8
     },
 })
